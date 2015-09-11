@@ -1,8 +1,3 @@
-# Guidelines-TEST
-Test repo for porting GLs to github 
-
-Note: CHANGES PUSHED HERE WILL BE DISCARDED
-
 # Notes for Council members
 
 ## Where do I start?
